@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "system_error": "cpp",
+        "*.tcc": "c"
+    }
+}
